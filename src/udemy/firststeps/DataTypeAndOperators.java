@@ -57,6 +57,11 @@ public class DataTypeAndOperators {
         System.out.println('\u00A9');
         //byte,short,int,long,float,double,char,boolean-> data types
 
+        //ternary operator
+        int ageOfClient=20;
+        boolean isEighteenOver=(ageOfClient==20)? true:false;
+        System.out.println(isEighteenOver);
+
 
     }
 
