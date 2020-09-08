@@ -1,6 +1,6 @@
-package udemy.oops;
+package udemy.oops.inheritance;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle {
     private int wheels;
     private int doors;
     private int gears;

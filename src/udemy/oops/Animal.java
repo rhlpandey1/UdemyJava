@@ -3,7 +3,7 @@ package udemy.oops;
 /**
  * Created by dev on 8/3/15.
  */
-public class Animal {
+public class Animal{
 
     private String name;
     private int brain;

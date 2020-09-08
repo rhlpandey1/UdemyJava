@@ -1,4 +1,4 @@
-package udemy.oops;
+package udemy.oops.inheritance;
 
 public class Vehicle {
     private String name;

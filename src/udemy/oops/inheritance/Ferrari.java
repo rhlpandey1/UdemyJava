@@ -1,4 +1,4 @@
-package udemy.oops;
+package udemy.oops.inheritance;
 
 public class Ferrari extends Car {
     private int roadServiceMonths;
