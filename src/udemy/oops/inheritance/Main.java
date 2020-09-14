@@ -14,8 +14,8 @@ public class Main {
 
         Ferrari ferrari = new Ferrari(36);
         ferrari.steer(45);
-        ferrari.accelerate(30);
-        ferrari.accelerate(20);
+      //  ferrari.accelerate(30);
+      // ferrari.accelerate(20);
         ferrari.accelerate(-42);
 
     }

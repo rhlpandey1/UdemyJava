@@ -4,7 +4,7 @@ public class Ferrari extends Car {
     private int roadServiceMonths;
 
     public Ferrari(int roadServiceMonths) {
-        super("Outlander", "4WD", 5, 5, 6, false);
+        super("Ferrari", "4WD", 5, 5, 6, false);
         this.roadServiceMonths = roadServiceMonths;
     }
 

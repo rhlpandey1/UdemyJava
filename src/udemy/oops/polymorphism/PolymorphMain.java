@@ -70,6 +70,8 @@ public class PolymorphMain {
     }
 
     public static Movie randomMovie(){
+         /* * @return  a pseudorandom double greater than or equal
+          to 0.0 and less than 1.0.*/
         int randomNumber=(int)(Math.random()*5)+1;
         System.out.println("random number generated was  "+randomNumber);
         switch (randomNumber){

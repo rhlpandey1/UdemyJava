@@ -1,7 +1,7 @@
 package udemy.oops.composition;
 
 /**
- * Created by keanehubertang on 8/3/15.
+ *
  */
 public class PC {
     private Case theCase;
